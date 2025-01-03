@@ -1,0 +1,6 @@
+spyder
+mlflow
+pandas
+statsmodels
+matplotlib
+requests
